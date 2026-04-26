@@ -3283,6 +3283,29 @@
       "googleRating": 0,
       "category": "restaurant",
       "dateAdded": "2026-04-25T21:21:27.041Z"
+    },
+    {
+      "id": "1941ef0b-59c2-4fcb-a77d-d3d76c2ffa8e",
+      "name": "Polcari's Restaurant",
+      "description": "Old-school Italian eatery serves generous plates of classic Italian fare in a down-to-earth setting.",
+      "address": "92 Broadway, Saugus, MA 01906",
+      "mapLink": "https://www.google.com/maps/place/Polcari's+Restaurant/@42.4939798,-71.0137611,15.67z/data=!4m6!3m5!1s0x89e30d5003bb6f27:0xf82c2cedb98cacfa!8m2!3d42.4957334!4d-71.0155067!16s%2Fg%2F1tkp5_09?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "italian",
+        "pizza",
+        "pasta"
+      ],
+      "photos": [
+        "/data/images/f1a7daf16cf757b045d9e922ba7f9898b540d0bdbb21ca6577428ac62a17e0dd.webp",
+        "/data/images/67ea359a4140d0a4dd1ff9176f66f514b492388f7b8b1d8ae065d70fa7daf1d8.webp",
+        "/data/images/652551115886b1974673ca0605c1ccfdd76216e76ad6c6237316b79dc75fbcab.webp",
+        "/data/images/cef367486b34e3f75fd9da82d1bb0a3e5172f46dc0b013c91a4bf160a08df60c.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-26T13:11:37.516Z"
     }
   ],
   "mytravelblog_tag_index": [
