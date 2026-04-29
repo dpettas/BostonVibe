@@ -3306,6 +3306,232 @@
       "googleRating": 0,
       "category": "restaurant",
       "dateAdded": "2026-04-26T13:11:37.516Z"
+    },
+    {
+      "id": "84292662-ef6e-4737-a2ea-24a5ac1e4a54",
+      "name": "Galley Diner",
+      "description": "Daytime eatery with photos on the walls known for corned beef hash & other diner-style comfort fare.\nSuggest: Netflix",
+      "address": "11 P St, South Boston, MA 02127",
+      "mapLink": "https://www.google.com/maps/place/Galley+Diner/@42.3424522,-71.0363723,14.97z/data=!4m6!3m5!1s0x89e37a981f32bbad:0xdff44936e5ab8d66!8m2!3d42.3378427!4d-71.0273626!16s%2Fg%2F1vyk3h_k?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "diner",
+        "comfort"
+      ],
+      "photos": [
+        "/data/images/ff75f9732272a564c71042e6e8278c9b92e051d2d1f2c8dd947e5a1998216754.webp",
+        "/data/images/7d45033b004710af30809e91da0fccd392428c52530653134f3e833105091214.webp",
+        "/data/images/0002cab1cc5546dbadee9c2acbf1704ec61ed1b0d89363d49d3b1f3c305d5f42.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-26T13:36:41.741Z"
+    },
+    {
+      "id": "8192270f-3923-40af-9c53-485a22845caa",
+      "name": "Farm Grill and Rotisserie",
+      "description": "Family-owned counter-serve fixture with Mediterranean flair doling out traditional Greek eats.",
+      "address": "40 Needham St, Newton, MA 02461",
+      "mapLink": "https://www.google.com/maps/place/Farm+Grill+and+Rotisserie/@42.3365616,-71.3351402,10.63z/data=!4m6!3m5!1s0x89e382115285b793:0x3624de0b7b6da9c5!8m2!3d42.3157637!4d-71.2098021!16s%2Fg%2F1tg9jkt9?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "greekowned",
+        "greek",
+        "mediterranean",
+        "take-out"
+      ],
+      "photos": [
+        "/data/images/20640e907a40d368b818c65c7b96077cf41af34c584abb841105338336561249.webp",
+        "/data/images/096d4a61bb62aae7612dd474271bfb89bcf69d493451ccec6e5730d1cc34f561.webp",
+        "/data/images/4ff2145ecc8430cca8fc9bf5a4422aedcca60e258d2d4a20aa5d1d8280a4ba35.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-29T01:07:16.228Z"
+    },
+    {
+      "id": "d240f1e9-5804-47d7-8364-fd6ac5943803",
+      "name": "Chivo Taqueria",
+      "description": "--",
+      "address": "1728 Massachusetts Ave, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/Chivo+Taqueria/@42.3840877,-71.1195634,14z/data=!4m6!3m5!1s0x89e37715173d8839:0x78f8416c0823009d!8m2!3d42.3841009!4d-71.119762!16s%2Fg%2F11kpj2hh_x?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "mexican",
+        "take-out",
+        "burrito"
+      ],
+      "photos": [
+        "/data/images/21bdae97e3a85f7da919a56173a74abdb8169b7837da39f73466a7e98572fc2b.webp",
+        "/data/images/aa2ac51ba3d5378ac845d7a12abd7430a44b840db3d044a61436dc13c228c546.webp",
+        "/data/images/8507c595261dfe708be887e47cd6c0b81b05e1b99ea262f4cd6ed4be4a7b3d18.webp",
+        "/data/images/ad808bdaa18a36a2c23d977834cd410d64e123830fb5d8e640de1aa97c1fc79f.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-29T01:14:00.554Z"
+    },
+    {
+      "id": "c12cb569-fd88-4483-8755-614ff692bc1f",
+      "name": "Museum of Comparative Zoology",
+      "description": "Research space with a collection of millions of extant & fossil invertebrate & vertebrate specimens.",
+      "address": "26 Oxford St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/Museum+of+Comparative+Zoology/@42.3789068,-71.1184877,16.25z/data=!3m1!5s0x89e377412a316afb:0x7f81a6492ce77918!4m6!3m5!1s0x89e377412f2ed67b:0x73f1f763f328b998!8m2!3d42.3789292!4d-71.1152629!16zL20vMGd3a2Jr?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "museum",
+        "family",
+        "kids"
+      ],
+      "photos": [
+        "/data/images/792ca943c7c09aadf0fd57eb524ff34633dcd5aeee4dbebb8c803f74f6629442.webp",
+        "/data/images/822f60a846f2f44e612efc955de3dea3dcc5fa002114a232a1d73b3fa4e1cd73.webp",
+        "/data/images/01baa78a60b1deba1ab2a58f5fb77574579c5063b5609e41cf52d8631346ca40.webp",
+        "/data/images/d1405ee4d5a481b276bcd3e23fe986823deb24a37285c3f340a99453aad8af07.webp",
+        "/data/images/6d0e1f464ef72582d5c339efc10667f707b4abaf5d18498947d8e5a0e9a78ca9.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-29T01:20:44.152Z"
+    },
+    {
+      "id": "782af7b1-3dac-476c-bdc8-02a7f3892fa8",
+      "name": "The Harvard Museum of Natural History",
+      "description": "Extensive natural-science collections, including animals, minerals & the famous Glass Flowers.",
+      "address": "26 Oxford St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/The+Harvard+Museum+of+Natural+History/@42.3764216,-71.1163169,16.21z/data=!3m1!5s0x89e377412a316afb:0xf8bb3b8086104004!4m6!3m5!1s0x89e377412f2ed67b:0x613d8c4648bcba7b!8m2!3d42.3784629!4d-71.1155576!16s%2Fm%2F02711rq?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "museum",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/dee72dcd37b6257ee854b181aa047a375bb8a98dfdeef56410f78ceed56b1098.webp",
+        "/data/images/cd9f3e755b5030b0441057495ca56ab6f8c1cec35d99aec93fa77b218bba2baf.webp",
+        "/data/images/35f90376f9f2f1be31bd0e42ebb42520972686f0aa40c31b86ad82517aedac2e.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-29T01:25:44.479Z"
+    },
+    {
+      "id": "5889a3ec-864d-41b4-bd90-cfa717b2dcfe",
+      "name": "Harvard Museum of the Ancient Near East",
+      "description": "Collection of archeological finds from the Near East, including Egypt, Israel, Iraq & Syria.",
+      "address": "6 Divinity Ave, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/Harvard+Museum+of+the+Ancient+Near+East/@42.3776215,-71.1213668,15.61z/data=!4m6!3m5!1s0x89e37746dc6c2a43:0xe91ab7e7b2233d1c!8m2!3d42.3781129!4d-71.1139796!16s%2Fm%2F02plwm_?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "museum",
+        "family",
+        "kids"
+      ],
+      "photos": [
+        "/data/images/0ca47df5bc0dc33d7d7b04d762be754560965a41ddfd4ecfd8a1710f3171c01b.webp",
+        "/data/images/d62efabe7d686893ab875ba3e8ba4a0335fc2a42cc11bc9cfd2a4f9f883829ae.webp",
+        "/data/images/3e4737605c8949da560e5cff351c88f8e9ae0b5ab31b1a6da57149cc6068275a.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-29T01:28:25.499Z"
+    },
+    {
+      "id": "25f63721-094f-4d80-b4df-d026d11421c4",
+      "name": "Savenor's Butcher Shop",
+      "description": "Variety of meat products.\nSuggested",
+      "address": "92 Kirkland St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/Savenor's+Butcher+Shop/@42.3778636,-71.1074363,15z/data=!4m6!3m5!1s0x89e37748434f8de3:0xaf70da72f4fb0e9d!8m2!3d42.3778636!4d-71.1074363!16s%2Fg%2F1tf_229h?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "bucher shop",
+        "deli"
+      ],
+      "photos": [
+        "/data/images/d1bf2618d0f3fc85f72a9f5543cce51b87011b6a2cd6d53f396fb170416eff09.webp",
+        "/data/images/fb6bb1503a1fe933d76badb6a689cc124da7e43a502ab6338119b78ec5fde08a.webp",
+        "/data/images/76539bafa258d7c07242640384e1e657a816e379beacc7308c59327ca2216789.webp",
+        "/data/images/a6ac84707b780455893537e805d84da8d2acbedcc2988a80d1d3a94af262c15c.webp",
+        "/data/images/253411dcba7ad7b53ea696b8fbdc6d71851e14326e89824204f08fe7ff096eec.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-29T01:33:01.383Z"
+    },
+    {
+      "id": "df84acf1-0eb9-4b9b-9c29-4c80c3e213a4",
+      "name": "Joe\u2019s Pizza",
+      "description": "--",
+      "address": "3 Brattle St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/Joe%E2%80%99s+Pizza/@42.3735334,-71.1165632,15z/data=!4m6!3m5!1s0x89e377da28d4adbb:0x452725cbd6b882c5!8m2!3d42.3735743!4d-71.1195647!16s%2Fg%2F11vbcqlrzh?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "pizza",
+        "take-out"
+      ],
+      "photos": [
+        "/data/images/2a6161ba48fbe94771fd89b65c985558213d397a64e834faa7d29f2e86e2633d.webp",
+        "/data/images/8d110533981f7747b256701dbac392ec537217c6f684e2feef79600e4ecc3a34.webp",
+        "/data/images/9ce27ef3d87e945393533bf1882dc5a8672ba50d9dd6e4362256a7adc8a285da.webp",
+        "/data/images/4f14d6f6436ac94d9c29efd7735fd28dcc7ba1b5977a864b8d530104425f2785.webp",
+        "/data/images/197ba8393bebe2d17b01a92a031109c64c1d98caa21f55eed0ae90a83aa48990.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-29T01:39:27.317Z"
+    },
+    {
+      "id": "a285cf6c-ba1a-4bc9-8e68-1741b8567712",
+      "name": "BerryLine",
+      "description": "Original of local chain featuring rotating flavors of frozen yogurt in a cute, quick-serve setting.",
+      "address": "3 Arrow St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/BerryLine/@42.3735743,-71.1298644,15z/data=!4m6!3m5!1s0x89e3775b53e149c7:0x72aebbcabbb080a1!8m2!3d42.371198!4d-71.1146394!16s%2Fg%2F1vzg37cs?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "pastry",
+        "take-out",
+        "ice-cream"
+      ],
+      "photos": [
+        "/data/images/8a02e84fdab221129a68b84c910e69a6cadaba62bc66c0ea1cb517d7c6d9e29d.webp",
+        "/data/images/363f6f0c182c32bf4bf62e883fa9c7e7de5f9ca311d9d121350d97d660d3c732.webp",
+        "/data/images/174a47f60ec141aa149ce4cb4aa961e6b7a9ec0d368b827877c85c263c2dc232.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-29T01:42:38.473Z"
+    },
+    {
+      "id": "8478071c-c2d4-4cfb-a3b6-9475048d140c",
+      "name": "The Collection of Historical Scientific Instruments at the Putnam Gallery",
+      "description": "--",
+      "address": "1 Oxford St, Cambridge, MA 02138",
+      "mapLink": "https://www.google.com/maps/place/The+Collection+of+Historical+Scientific+Instruments+at+the+Putnam+Gallery/@42.3768099,-71.1158862,16z/data=!4m6!3m5!1s0x89e3774157d08287:0xe1392204489e893b!8m2!3d42.3766442!4d-71.1161887!16s%2Fg%2F11bwpzjm1h?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "museum",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/7c2bbb51965e808caae7d4725a162876d1659bf639610f2c853ba51f576941a4.webp",
+        "/data/images/18cdc3c00bfb038167866edf10dec2d03ea4f64804f50b5382393080d3d048ab.webp",
+        "/data/images/ec2762226526e6b1f2d04e1da60072de3e4993f9850445310c8b28a0828c7e27.webp",
+        "/data/images/8e38467d309292b478fa06419540976a1260e1650f9e73e7bf4a027c188628dd.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-29T01:48:19.780Z"
     }
   ],
   "mytravelblog_tag_index": [
