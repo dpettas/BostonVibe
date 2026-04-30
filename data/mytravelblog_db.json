@@ -3532,6 +3532,196 @@
       "googleRating": 0,
       "category": "experience",
       "dateAdded": "2026-04-29T01:48:19.780Z"
+    },
+    {
+      "id": "b7f3d1fd-efa5-4db7-b0c0-eed58b52a247",
+      "name": "Kaaterskill Falls",
+      "description": "This iconic 260-ft-tall tiered waterfall on Spruce Creek features a lookout & a foot trail.",
+      "address": "Hunter, NY 12436",
+      "mapLink": "https://www.google.com/maps/place/Kaaterskill+Falls/@42.1934218,-74.0631924,8z/data=!4m10!1m3!11m2!2sxZutp9Ce8ebPgGYNTZlGveOn4jdqsw!3e3!3m5!1s0x89ddafc64d0f4c19:0x6521d3d46b59d1a!8m2!3d42.1934218!4d-74.0631924!16zL20vMGdtX2h0?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "outdoors",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/398586e2a90251340b2e91a2fab15f2b73ebfbe1ebb1758a67cde4754e50cd59.webp",
+        "/data/images/d7820d518b5a0691825cf1c817e372f58017861c9c524638865debdd58273a48.webp",
+        "/data/images/1f3050cd7b7b5777744f8804b249ee8a722945a3c41e84f30376007c917e035d.webp",
+        "/data/images/e8d7dc12b881994cab613042e8b8e9694d98858e90f6125ae43641c8bc6734c5.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-30T03:08:12.787Z"
+    },
+    {
+      "id": "7a36a95c-2112-42af-963e-a270824f507a",
+      "name": "Ice Castles",
+      "description": "castles made from ice.",
+      "address": "24 Clark Farm Rd, North Woodstock, NH 03262",
+      "mapLink": "https://www.google.com/maps/place/Ice+Castles/@43.1305523,-72.6624356,8z/data=!4m10!1m3!11m2!2sxZutp9Ce8ebPgGYNTZlGveOn4jdqsw!3e3!3m5!1s0x4cb4818406bba5d5:0xe5b3ee411aca4927!8m2!3d44.0343819!4d-71.6988376!16s%2Fg%2F11b6yrvrtg?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "indoors",
+        "family",
+        "kids",
+        "date"
+      ],
+      "photos": [
+        "/data/images/ec756fdd0274d96be6d29fbba64f9fc3fc621e3bf455c192461299a348260578.webp",
+        "/data/images/fcd91694ceaa02cfbbb83d09218955be539c3a084f41a07fd3e621085d161272.webp",
+        "/data/images/5e48e47654a4b7c437ac66afb5908ff65ace612b1dcf71230912ca23b7b52da2.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-30T03:11:39.503Z"
+    },
+    {
+      "id": "575608f4-f90c-42d8-8aef-ee440ae4a778",
+      "name": "Prairie Fire",
+      "description": "Rustic-chic restaurant emphasizing wood-fired cooking for pizzas & snacks, plus fresh pasta.",
+      "address": "242 Harvard St, Brookline, MA 02446",
+      "mapLink": "https://www.google.com/maps/place/Prairie+Fire/@42.3412842,-71.1210004,13z/data=!4m6!3m5!1s0x89e379be29b04a05:0xbee05278f3d08b61!8m2!3d42.3412607!4d-71.1212183!16s%2Fg%2F11fylwmwrd?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "seafood",
+        "date",
+        "pasta",
+        "modern"
+      ],
+      "photos": [
+        "/data/images/2cc2bc49e6db66cd0c895741e1f6a00c76b6c14ed611f19637fffe1223fab904.webp",
+        "/data/images/bc3b95cd06b33563e6763d97f1bd1b7f66f52378a1121c9853b45add3473c891.webp",
+        "/data/images/55481b1a09953b1aa1233e5e341f39262de7aff76da968b239e5529ced903cc5.webp",
+        "/data/images/309c0e00e8d44931b4420c9348ed4911c6c63cea788fd7e914fb524a5e01256b.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-30T03:18:57.127Z"
+    },
+    {
+      "id": "a44b8153-dfeb-4955-86c4-704b6e2cd9c7",
+      "name": "Isabella Stewart Gardner Museum",
+      "description": "Evocative of a 15th-century Venetian palace, this museum houses a world-class art collection.",
+      "address": "25 Evans Way, Boston, MA 02115",
+      "mapLink": "https://www.google.com/maps/place/Isabella+Stewart+Gardner+Museum/@42.336341,-71.0993072,16z/data=!4m15!1m8!3m7!1s0x89e3799806fdb543:0x12d049db275832a3!2sMassArt+Art+Museum!8m2!3d42.3363947!4d-71.0999581!15sCgxUaGluZ3MgdG8gZG9aDiIMdGhpbmdzIHRvIGRvkgEKYXJ0X211c2V1bZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOdWJtSlFNa3hSRUFF4AEA-gEECAAQPQ!16s%2Fg%2F11fl7pph1h!3m5!1s0x89e3798a92d68549:0xdac5a0cd0f233abd!8m2!3d42.3381442!4d-71.0990577!16zL20vMDIxM2J6?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "gallery",
+        "museum",
+        "art",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/fec4bc29327d3fed9a996ea9cdb57c42fcf7d4a91fdc3ba90ca22b47c2241906.webp",
+        "/data/images/1e17a269b9603a94e4358f3ac8ff1a3e09099cd5f64a6890ff479a247203e797.webp",
+        "/data/images/76567c715c4eedcfb8138d20addd77f96b23d80abce9ff116aba877de61ad088.webp",
+        "/data/images/ae538a4bf09f66ebaa4db5269cc0c875304c56d807f1ec1f00d3a33c5cb1f28e.webp",
+        "/data/images/985165bd9290ab54a5565b03ed0e0f3890e3b802aae410609908061c3ddd0f40.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-30T03:25:00.193Z"
+    },
+    {
+      "id": "8094de27-1f97-4386-ac5c-e6edd5029b71",
+      "name": "MassArt Art Museum",
+      "description": "--",
+      "address": "621 Huntington Ave, Boston, MA 02115",
+      "mapLink": "https://www.google.com/maps/place/MassArt+Art+Museum/@42.3379915,-71.0986928,16z/data=!4m6!3m5!1s0x89e3799806fdb543:0x12d049db275832a3!8m2!3d42.3363947!4d-71.0999581!16s%2Fg%2F11fl7pph1h?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "art",
+        "museum",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/f4f758ddd2c625139f65266ef319aa82bc9615eef1623098b886bd80b7a1efdc.webp",
+        "/data/images/891a1d4539eb467386efc04e1462d998ca6c239608771d46d1406fd078530c15.webp",
+        "/data/images/70ed7a7921023e568054ec4cc683734d315ae60ae4c6bbe49c45e660714bc92d.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-04-30T03:27:20.678Z"
+    },
+    {
+      "id": "ca6d0a41-415e-43fb-b7ec-248b0c7b1117",
+      "name": "Contessa Boston",
+      "description": "Italian-inspired cuisine, brunch, and wine offered in an opulent rooftop restaurant with city views.",
+      "address": "Rooftop, 3 Newbury St, Boston, MA 02116",
+      "mapLink": "https://www.google.com/maps/place/Contessa+Boston/@42.3490636,-71.0811882,16z/data=!3m1!5s0x89e37a751a7ca46f:0x3e287d0e00cbd880!4m6!3m5!1s0x89e37bcc9339bb67:0x8da241fc5f068d21!8m2!3d42.3527771!4d-71.0717651!16s%2Fg%2F11q2phlq97?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "italian",
+        "pasta",
+        "date",
+        "view",
+        "rooftop"
+      ],
+      "photos": [
+        "/data/images/3e165e330f452e62c9a4a0f4fe09f7c55ebd2075e3aa27aec42f09baf445094c.webp",
+        "/data/images/364221c4ad139089063d54cb1507773d10390f34b0d5b2ce7380b629e424be88.webp",
+        "/data/images/1626f87936d639bd9796a3342ea0192e121bda46106b71294689abb1d6082c56.webp",
+        "/data/images/a3de214086111a1fbbb243611637ce6ee670010aa767947765169e6a39fef944.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-30T03:37:48.484Z"
+    },
+    {
+      "id": "e3ae9ce2-4bf9-437d-8a91-15e89916289a",
+      "name": "The Barking Crab",
+      "description": "Lively waterfront seafood joint with open-air picnic-table dining & views of the Boston Harbor. \nLobster roll",
+      "address": "88 Sleeper St, Boston, MA 02210",
+      "mapLink": "https://www.google.com/maps/place/The+Barking+Crab/@42.3537263,-71.0485723,16z/data=!4m6!3m5!1s0x89e3707e3a26fbdb:0x28cc6d13871fcf33!8m2!3d42.3536651!4d-71.0487571!16s%2Fm%2F01_hd60?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "seafood",
+        "take-out",
+        "view"
+      ],
+      "photos": [
+        "/data/images/04ea3f8b5f2f3e8e3b2b317ba8533d84f983cc8a0fdbc6f2a78b3a867c4d0645.webp",
+        "/data/images/46c28da32182442a89653879608b394c18d6e6654f25246bbe1be3322cdfcc2f.webp",
+        "/data/images/5986e30b6ac039595752a6c5e6c7a61ace126750f3a79e3826436e27ecccd116.webp",
+        "/data/images/ae2536aae367c7ccfca63b6c56fd6060918e2b157074af81d67b2e418199ddec.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-30T03:46:19.994Z"
+    },
+    {
+      "id": "45ee38fa-2b3d-4395-952b-5d4d12d729fc",
+      "name": "Martin's Park",
+      "description": "beautiful playground",
+      "address": "64 Sleeper St, Boston, MA 02210",
+      "mapLink": "https://www.google.com/maps/place/Martin's+Park/@42.352799,-71.049252,16z/data=!4m6!3m5!1s0x89e371e6dd789e2f:0x34afee0539d0eede!8m2!3d42.352799!4d-71.049252!16s%2Fg%2F11f9y9drzx?entry=ttu&g_ep=EgoyMDI2MDQyNy4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "playground",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/48a72cd09a194148059ef573edcfdef7cdab999244aa297b2e28c935db518ecd.webp",
+        "/data/images/84799bb4e5954f6adcfb315990f62c6d483cad74bfb5cb926cad5be195267730.webp",
+        "/data/images/f6b349e094fef30be39d3430cbeb94bf2d768220ee80145d4442ffa1f8ac38c8.webp",
+        "/data/images/a7f272dcc3a0bb27bd27dabcc10510c5e078c8c27cabf3f3635c92b8812ff772.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-04-30T03:48:51.096Z"
     }
   ],
   "mytravelblog_tag_index": [
