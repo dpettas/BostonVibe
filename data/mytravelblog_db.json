@@ -4450,6 +4450,149 @@
       "googleRating": 0,
       "category": "shop",
       "dateAdded": "2026-05-03T16:08:15.256Z"
+    },
+    {
+      "id": "7e481bdd-08e0-4efc-a31c-7cf5874ccf92",
+      "name": "Boston Public Library",
+      "description": "Historic library with grand, Renaissance-style architecture, murals by John Singer Sargent & tours.",
+      "address": "700 Boylston St, Boston, MA 02116",
+      "mapLink": "https://www.google.com/maps/place/Boston+Public+Library/@42.3492382,-71.0797125,18z/data=!4m6!3m5!1s0x89e37a0c429bf853:0xb9d45dfe5bc1ac73!8m2!3d42.3492383!4d-71.0786756!16s%2Fm%2F0hz_nrt?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "library"
+      ],
+      "photos": [
+        "/data/images/beda4fe0ecb1eebdef802b3360fedb233692656e78d451938883b5f7ea7b5dc3.webp",
+        "/data/images/044bfc4da0cd98e29ded6ca2dd7aaecd1f1ed6d1be94ae471b258065d38de5ba.webp",
+        "/data/images/1f9c54e0bf6e5a235c83b7d7a24995204f3647dc098c30b6028219c254de81cb.webp",
+        "/data/images/f5a275301bbfc9b202c7029c19bce35609419b7c47d79bbf9591b93d469375e3.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-05-03T16:11:49.352Z"
+    },
+    {
+      "id": "1545c2d8-1464-4505-9955-6effe816cf1c",
+      "name": "Lolita Fort Point",
+      "description": "Sprawling stop with red chandeliers and murals offering elevated Mexican fare, plus tequila and sangria.",
+      "address": "253 Summer St, Boston, MA 02210",
+      "mapLink": "https://www.google.com/maps/place/Lolita+Fort+Point/@42.3512608,-71.0597543,16.25z/data=!3m1!5s0x89e37a7fea5a872d:0x54c55e3a07c2bcda!4m6!3m5!1s0x89e37a7fed399dff:0xdf4e5333375ee7af!8m2!3d42.3504366!4d-71.0512045!16s%2Fg%2F11hbgb2tt3?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "cocktails",
+        "mexican",
+        "indoors",
+        "outdoors",
+        "instagramable"
+      ],
+      "photos": [
+        "/data/images/afd1d243831a3aaafd7662ed9457bb6cbb05f75f8fe5fa393c4047e87623805b.webp",
+        "/data/images/007afc3ccf40b5297952118d13b122157e777cd273bbc63d225c4c0952482b69.webp",
+        "/data/images/93fa052e2788fc1c17f57194369432bf4a34aa0d5855b230b19f5960383bb8de.webp",
+        "/data/images/3dfeb800ac4713b833dd4de050d321d941786809cd4cf19f91e400ad8609c154.webp",
+        "/data/images/0343cbd71c22b96c85c7d993ae7ed52a4b248737f38337240c7dcf8adf0e9ff4.webp",
+        "/data/images/b54ed61dd77bcf8844935609079e500d42404ade664624e4c806bb547cb64e0c.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-03T16:20:47.183Z"
+    },
+    {
+      "id": "429768f6-b787-4956-b9c1-fded636cdc78",
+      "name": "Gyro Theory",
+      "description": "--",
+      "address": "356 B Chestnut Hill Ave, Brighton, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Gyro+Theory/@42.3389571,-71.160331,15.67z/data=!3m1!5s0x89e37851707bfcfd:0xff60c195ccfe68b7!4m6!3m5!1s0x89e37935ab6e73ad:0x8038f68619e4f310!8m2!3d42.3368886!4d-71.1515506!16s%2Fg%2F11xzy814r5?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "greek",
+        "greekowned",
+        "take-out"
+      ],
+      "photos": [
+        "/data/images/08cad44f0abacbdf401af6398900e58440996798b2b196f2fb5b30f79ca3d599.webp",
+        "/data/images/9eb7a8a63bdaddf6d96d6e1f809cdec90f7a521de535d9fcce5209553c99dec7.webp",
+        "/data/images/948cabe7861f07f6f7a8f3898334a044d918113d8501ede7d76afa00730a1c5b.webp",
+        "/data/images/75591c784e994804cef437a299b9af38af7b52ec56326b9122f51d46b48b8bdf.webp",
+        "/data/images/c477c365b12c62ac3450e075acd97116b57e3676c27edadb682a3ca441310ec0.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-03T16:28:54.634Z"
+    },
+    {
+      "id": "d40b3fae-b653-433f-b2e3-bb0a77763ec1",
+      "name": "Lolita Back Bay",
+      "description": "Vibrant, trendy lounge offering Mexican-inspired eats & a lengthy tequila list amid Gothic decor.",
+      "address": "271 Dartmouth St, Boston, MA 02116",
+      "mapLink": "https://www.google.com/maps/place/Lolita+Back+Bay/@42.3498172,-71.080707,16.94z/data=!4m6!3m5!1s0x89e37a0c710554d1:0x565026df2ffe72f4!8m2!3d42.3506838!4d-71.0773765!16s%2Fg%2F1wzt3ctr?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "mexican",
+        "instagramable",
+        "cocktails"
+      ],
+      "photos": [
+        "/data/images/2d2bcdba3312a12b0ed3df87104a21e21a80c5a4d42c2811e1cadae7319c98e5.webp",
+        "/data/images/97ede163b762cd9a4bbefdc3f35a8cbe4dcfb1de0237d7c2be3dcbc108c37eb2.webp",
+        "/data/images/3a698654d74683ade9c87e6463653f94cfb68087d920eb5a4398d9d28be4f710.webp",
+        "/data/images/322eeed8e8baa041dd810a7fe4529953dafb1786cecd869574c8835b68f77dc9.webp",
+        "/data/images/46fc6da3955304767957eb92d855b4b96701f1cc4eea773b85d6dc2a3e84a4d8.webp",
+        "/data/images/ebfba16d97c3125a8925aff0fa25a34ab6f00cbd8f2b9dc5f237ecff5b81ff80.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-03T16:36:54.256Z"
+    },
+    {
+      "id": "5fe2ed60-d113-453e-b154-02830a3bfb0a",
+      "name": "The Greek Gyro",
+      "description": "--",
+      "address": "88 Peterborough St, Boston, MA 02215",
+      "mapLink": "https://www.google.com/maps/place/The+Greek+Gyro/@42.3432621,-71.099034,16z/data=!4m6!3m5!1s0x89e379d698547d63:0x5570c05224e7530c!8m2!3d42.3431112!4d-71.0989534!16s%2Fg%2F11vl7v69fh?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "greek",
+        "greekowned",
+        "take-out"
+      ],
+      "photos": [
+        "/data/images/3674a29059cff753c665fe536aeb638934d08e7189e84fafa42d7148cde1d164.webp",
+        "/data/images/452fc5cc0c1ab0e3fc6d34ff796a795fa2f6f36cb237baef4bb03b6d100b208a.webp",
+        "/data/images/bfc26afc2a32a0382ec674b8a508471101d6e59f85b3080e25fd935095bbc5d0.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-03T16:39:52.788Z"
+    },
+    {
+      "id": "cd521f98-5417-47ce-88ed-c99643319f67",
+      "name": "Elia Taverna Marblehead",
+      "description": "--",
+      "address": "261 Washington St, Marblehead, MA 01945",
+      "mapLink": "https://www.google.com/maps/place/Elia+Taverna+Marblehead/@42.4921196,-70.8745873,13z/data=!4m6!3m5!1s0x89e3150ba948d777:0x9b8a049178482089!8m2!3d42.5011179!4d-70.8560432!16s%2Fg%2F11t0snyqsq?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "greek",
+        "greekowned",
+        "indoors"
+      ],
+      "photos": [
+        "/data/images/fd82ff498acffeab2c14aad18afd3cb786917be89c47d74719bb1701d53ed448.webp",
+        "/data/images/04abb953703b64020d9731beec1316c768f480934a8afaffbb5ff9ad9665b6b1.webp",
+        "/data/images/1a046fd84f145f38afc1b793a884571907b83cd23d587604e09515cb68716359.webp",
+        "/data/images/1e5425260b93df8a4608d375263eb892176bf13fd5a88afdeb11f0166d26f044.webp",
+        "/data/images/7c58c0a4d0607c63c3b0226b3ef4d90cd9ef00d5c570c25e5759be2e12dde3e8.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-03T16:44:35.202Z"
     }
   ],
   "mytravelblog_tag_index": [
