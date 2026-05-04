@@ -48,6 +48,16 @@ function normalizeSearchText(value) {
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '');
 }
+function mapsSearchHref(query) {
+    const clean = String(query || '').replace(/\s+/g, ' ').trim();
+    return clean ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clean)}` : '';
+}
+function placeSearchQuery(place) {
+    return [place.name, place.address].filter(Boolean).join(' ');
+}
+function placeAddressHref(place) {
+    return mapsSearchHref(placeSearchQuery(place) || place.address || place.name);
+}
 function resolveDistanceOrigin(input, places) {
     const raw = String(input || '').trim();
     if (!raw)
@@ -69,13 +79,14 @@ function resolveDistanceOrigin(input, places) {
     return { error: 'No saved place matched. Use a saved place name, Maps link, or lat, lng.' };
 }
 function mapsHref(place) {
+    const raw = String(place.mapLink || '').trim();
+    if (raw.startsWith('http'))
+        return raw;
     const coord = coordsOf(place);
     if (coord)
-        return `https://www.google.com/maps/search/${encodeURIComponent(place.name)}/@${coord.lat},${coord.lng},17z`;
-    if (place.mapLink && place.mapLink.startsWith('http'))
-        return place.mapLink;
-    if (place.address)
-        return `https://www.google.com/maps/search/${encodeURIComponent(place.address)}`;
+        return placeAddressHref(place) || mapsSearchHref(`${coord.lat},${coord.lng}`);
+    if (place.address || place.name)
+        return placeAddressHref(place);
     return '';
 }
 function App() {
@@ -323,7 +334,7 @@ function DetailModal({ place, onClose, onEdit, onDelete, onUpdated }) {
         className: `carousel-dot ${i === idx ? 'carousel-dot--active' : ''}`,
         'aria-label': `Photo ${i + 1}`,
         onClick: () => setIdx(i),
-    })))), h('h2', { className: 'detail-title' }, place.name), (place.visited || place.googleRating) && h('div', { className: 'detail-rating' }, place.visited && (place.rating ? h('span', { className: 'detail-stars' }, `${'★'.repeat(place.rating)}${'☆'.repeat(5 - place.rating)}`) : h('span', { className: 'detail-visited-only' }, '✓ Visited')), place.googleRating ? h('span', { className: 'detail-google-rating' }, `G ★ ${place.googleRating}`) : null), place.address && h('p', { className: 'detail-address' }, h('a', { href: `https://www.google.com/maps/search/${encodeURIComponent(place.address)}`, target: '_blank', rel: 'noopener noreferrer' }, `📍 ${place.address}`)), h('p', { className: 'detail-desc' }, place.description), mapsHref(place) && h('div', { className: 'detail-map' }, h('a', { href: mapsHref(place), target: '_blank', rel: 'noopener noreferrer' }, 'Open in Maps ↗')), h('div', { className: 'detail-tags' }, place.tags.map(t => h('span', { key: t, className: 'tag-badge' }, t))), h('time', { className: 'detail-date' }, `Added ${dateStr}`)), h('div', { className: 'modal-footer' }, h('button', { className: 'btn btn-danger', onClick: onDelete }, 'Delete'), h('button', { className: 'btn btn-primary', onClick: onEdit }, 'Edit')));
+    })))), h('h2', { className: 'detail-title' }, place.name), (place.visited || place.googleRating) && h('div', { className: 'detail-rating' }, place.visited && (place.rating ? h('span', { className: 'detail-stars' }, `${'★'.repeat(place.rating)}${'☆'.repeat(5 - place.rating)}`) : h('span', { className: 'detail-visited-only' }, '✓ Visited')), place.googleRating ? h('span', { className: 'detail-google-rating' }, `G ★ ${place.googleRating}`) : null), place.address && h('p', { className: 'detail-address' }, h('a', { href: placeAddressHref(place), target: '_blank', rel: 'noopener noreferrer' }, `📍 ${place.address}`)), h('p', { className: 'detail-desc' }, place.description), mapsHref(place) && h('div', { className: 'detail-map' }, h('a', { href: mapsHref(place), target: '_blank', rel: 'noopener noreferrer' }, 'Open in Maps ↗')), h('div', { className: 'detail-tags' }, place.tags.map(t => h('span', { key: t, className: 'tag-badge' }, t))), h('time', { className: 'detail-date' }, `Added ${dateStr}`)), h('div', { className: 'modal-footer' }, h('button', { className: 'btn btn-danger', onClick: onDelete }, 'Delete'), h('button', { className: 'btn btn-primary', onClick: onEdit }, 'Edit')));
 }
 function PlaceFormModal({ place, onClose, onSaved }) {
     const [category, setCategory] = useState(place?.category || 'restaurant');

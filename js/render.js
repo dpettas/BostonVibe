@@ -50,15 +50,11 @@ const Render = (() => {
         const categoryHtml = `<span class="category-badge ${categoryMeta.className}">${categoryMeta.label}</span>`;
         const dateStr = new Date(place.dateAdded).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
         const coordMatch = place.mapLink && place.mapLink.match(/^(-?\d+\.?\d*),\s*(-?\d+\.?\d*)$/);
-        const locationHref = coordMatch
-            ? `https://www.google.com/maps/search/${encodeURIComponent(place.name)}/@${coordMatch[1]},${coordMatch[2]},17z`
-            : place.mapLink || '';
+        const locationHref = mapHrefForPlace(place, coordMatch);
         const locationLabel = coordMatch
             ? escHtml(place.mapLink)
             : 'Open in Maps';
-        const addressHref = place.address
-            ? `https://www.google.com/maps/search/${encodeURIComponent(place.address)}`
-            : locationHref;
+        const addressHref = place.address ? placeSearchHref(place) : locationHref;
         const addressHtml = addressHref
             ? `<a class="card-address" href="${escHtml(addressHref)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">📍 ${escHtml(place.address || locationLabel)}</a>`
             : '';
@@ -123,6 +119,21 @@ const Render = (() => {
         div.className = 'empty-state';
         div.innerHTML = `<span class="empty-icon">🗺️</span><p>${escHtml(message)}</p>`;
         container.appendChild(div);
+    }
+    function mapsSearchHref(query) {
+        const clean = String(query || '').replace(/\s+/g, ' ').trim();
+        return clean ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clean)}` : '';
+    }
+    function placeSearchHref(place) {
+        return mapsSearchHref([place.name, place.address].filter(Boolean).join(' ') || place.address || place.name);
+    }
+    function mapHrefForPlace(place, coordMatch) {
+        const raw = String(place.mapLink || '').trim();
+        if (raw.startsWith('http'))
+            return raw;
+        if (coordMatch)
+            return placeSearchHref(place) || mapsSearchHref(`${coordMatch[1]},${coordMatch[2]}`);
+        return raw;
     }
     function escHtml(str) {
         return String(str)

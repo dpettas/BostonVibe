@@ -6,7 +6,7 @@ const Modal = (() => {
         const modal = document.getElementById('modal-detail');
         const photos = place.photos || [];
         const carouselHtml = _buildCarousel(photos, place.name);
-        const mapLinkHtml = buildMapLink(place.mapLink);
+        const mapLinkHtml = buildMapLink(place);
         const tagsHtml = place.tags.map(t => `<span class="tag-badge">${esc(t)}</span>`).join('');
         const dateStr = new Date(place.dateAdded).toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
         const ratingHtml = (place.visited || place.googleRating)
@@ -19,7 +19,7 @@ const Modal = (() => {
       ${carouselHtml}
       <h2 class="detail-title">${esc(place.name)}</h2>
       ${ratingHtml}
-      ${place.address ? `<p class="detail-address"><a href="https://www.google.com/maps/search/${encodeURIComponent(place.address)}" target="_blank" rel="noopener noreferrer">📍 ${esc(place.address)}</a></p>` : ''}
+      ${place.address ? `<p class="detail-address"><a href="${esc(placeAddressHref(place))}" target="_blank" rel="noopener noreferrer">📍 ${esc(place.address)}</a></p>` : ''}
       <p class="detail-desc">${esc(place.description)}</p>
       <div class="detail-map">${mapLinkHtml}</div>
       <div class="detail-tags">${tagsHtml}</div>
@@ -166,15 +166,27 @@ const Modal = (() => {
         if (first)
             first.focus();
     }
-    function buildMapLink(raw) {
+    function mapsSearchHref(query) {
+        const clean = String(query || '').replace(/\s+/g, ' ').trim();
+        return clean ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clean)}` : '';
+    }
+    function placeSearchQuery(place) {
+        return [place.name, place.address].filter(Boolean).join(' ');
+    }
+    function placeAddressHref(place) {
+        return mapsSearchHref(placeSearchQuery(place) || place.address || place.name);
+    }
+    function buildMapLink(place) {
+        const raw = String(place.mapLink || '').trim();
         if (!raw)
             return '';
-        const latLng = raw.match(/^(-?\d+\.?\d*),\s*(-?\d+\.?\d*)$/);
-        if (latLng) {
-            return `<a href="https://www.google.com/maps?q=${latLng[1]},${latLng[2]}" target="_blank" rel="noopener noreferrer">Open in Google Maps ↗</a>`;
-        }
         if (raw.startsWith('http')) {
             return `<a href="${esc(raw)}" target="_blank" rel="noopener noreferrer">Open in Maps ↗</a>`;
+        }
+        const latLng = raw.match(/^(-?\d+\.?\d*),\s*(-?\d+\.?\d*)$/);
+        if (latLng) {
+            const href = placeAddressHref(place) || mapsSearchHref(`${latLng[1]},${latLng[2]}`);
+            return `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">Open in Google Maps ↗</a>`;
         }
         return '';
     }

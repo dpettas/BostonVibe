@@ -4593,6 +4593,340 @@
       "googleRating": 0,
       "category": "restaurant",
       "dateAdded": "2026-05-03T16:44:35.202Z"
+    },
+    {
+      "id": "84ebc883-c4c7-45e1-9d73-94873d29417f",
+      "name": "The Fat Greek",
+      "description": "--",
+      "address": "185 Massachusetts Ave, Arlington, MA 02474",
+      "mapLink": "https://www.google.com/maps/place/The+Fat+Greek/@42.3888819,-71.102594,13.26z/data=!4m6!3m5!1s0x89e37769b36cd39d:0x50fb74c1fb58849b!8m2!3d42.4057807!4d-71.1419029!16s%2Fg%2F11l5qd5q54?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "greekk",
+        "greekowned",
+        "gyros"
+      ],
+      "photos": [
+        "/data/images/1d14815eabd5ed7164d23fb3551854e8b8db1449c5984b270d4e9694fd33d333.webp",
+        "/data/images/c0d32632e6351ab254dc8ec8daa08db1d6d94a467bec854f950089399227ef60.webp",
+        "/data/images/10696858e482867432d3e63e36a1659c48a86eb26d29c5aa13dcacffcec5aec7.webp",
+        "/data/images/368dc1d06538760cd8b536f10fb4bb5cfe4c955a20a43f0654a42b8364ac53f7.webp",
+        "/data/images/5a752eae54ea9ca53a8ff09e65ba4be9450afdafead8eb9f37cf8667a61c322b.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:22:43.422Z"
+    },
+    {
+      "id": "3ac056ce-f989-4c55-905e-61eac33c5911",
+      "name": "Sky Zone Trampoline Park",
+      "description": "Chain of indoor trampoline parks featuring freestyle bouncing, dodgeball, fitness programs & more.",
+      "address": "Liberty Tree Mall, 100 Independence Way, Danvers, MA 01923",
+      "mapLink": "https://www.google.com/maps/place/Sky+Zone+Trampoline+Park/@42.4725662,-71.0774007,11.5z/data=!4m14!1m7!3m6!1s0x89e37769b36cd39d:0x50fb74c1fb58849b!2sThe+Fat+Greek!8m2!3d42.4057807!4d-71.1419029!16s%2Fg%2F11l5qd5q54!3m5!1s0x89e313daf8518ee5:0xe123f1e43907f8c1!8m2!3d42.5544062!4d-70.9402621!16s%2Fg%2F11b6j879qx?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "playground",
+        "kid",
+        "family"
+      ],
+      "photos": [
+        "/data/images/40aa27070496a20259d52e6ec5f00f8428058286e90764b653ea5258718e2f1d.webp",
+        "/data/images/9e6a9a8a4797c0355dc6053a7c54cf41a88a0b975fbd9573de25f58e3043f068.webp",
+        "/data/images/dd2fd184fd7529a52655868c5a2077901ce3c279a44f321a03b3fa28d3be98e6.webp",
+        "/data/images/f1affb6d9fe2cf5bd73a0293acd6b4d5ce6a6eeaf23c76df1d52d8f7c66ec5ea.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:24:58.021Z"
+    },
+    {
+      "id": "9401b6c6-b867-4345-b7a3-dacd08918404",
+      "name": "Texas Roadhouse",
+      "description": "Lively chain steakhouse serving American fare with a Southwestern spin amid Texas-themed decor.",
+      "address": "301 Newbury St, Danvers, MA 01923",
+      "mapLink": "https://www.google.com/maps/place/Texas+Roadhouse/@42.5839034,-70.9647282,11z/data=!4m6!3m5!1s0x89e311a31f7241b5:0x2c49531ce815a4b3!8m2!3d42.5836959!4d-70.964555!16s%2Fg%2F1tqcm6sy?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "steak",
+        "american"
+      ],
+      "photos": [
+        "/data/images/d44c4bff575f7a2316b66e0e3a1557cad3d0bba90b81c5115d76b6cd61cf7449.webp",
+        "/data/images/b9fc8ba1a34b07beeb019cf0335e6be51e35a9b420d850befe3782e7b0c68415.webp",
+        "/data/images/bb1f91eb07554394d768ed319036479f69579eda34cf5d6ad1dbd39f10296d15.webp",
+        "/data/images/9edf77e94b06b9cce6e429f40442f75795a3f16a9a1be49820d2153aa08144c0.webp",
+        "/data/images/d0ac16eb0ca780fb93419872d39eea438a8405dd7d306609ca21909e4a38e959.webp"
+      ],
+      "visited": true,
+      "rating": 4,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:27:41.457Z"
+    },
+    {
+      "id": "015f4070-0ac8-4a76-920b-37fe7699748d",
+      "name": "Christian Science Plaza",
+      "description": "Long city square overlooked by the Christian Science Church, with a reflecting pool & fountain.",
+      "address": "Massachusetts Ave and, Huntington Ave, Boston, MA 02115",
+      "mapLink": "https://www.google.com/maps/place/Christian+Science+Plaza/@42.3445801,-71.084287,15z/data=!4m6!3m5!1s0x89e37a1084a9ffff:0x2e36a19dfb08ee1d!8m2!3d42.3445774!4d-71.0843511!16s%2Fg%2F11btxh1nc2?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "square"
+      ],
+      "photos": [
+        "/data/images/73725df9b15a5df3afcda3ca364e4faf74742a2ece349fb8af76cbd0f575db00.webp",
+        "/data/images/f5b6de00d7962971fd1ba00f5e1c60261ed7fbc090240110631a6a874620f60a.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-05-04T01:33:06.274Z"
+    },
+    {
+      "id": "ca17f593-c765-4a54-9f2d-48601235f867",
+      "name": "El Barco \u2013 Mexican Restaurant & Tequila Bar in Boston\u2019s Back Bay",
+      "description": "--",
+      "address": "50 Dalton St, Boston, MA 02115",
+      "mapLink": "https://www.google.com/maps/place/El+Barco+%E2%80%93+Mexican+Restaurant+%26+Tequila+Bar+in+Boston%E2%80%99s+Back+Bay/@42.3445774,-71.0843511,15z/data=!4m6!3m5!1s0x89e37b7944e7e2e7:0x5524da67f4fc0167!8m2!3d42.3471055!4d-71.0855221!16s%2Fg%2F11m779h116?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "mexican",
+        "cocktails",
+        "bar"
+      ],
+      "photos": [
+        "/data/images/c649aa659610543b297ddc7b43983ec4815cb6ca03a99217e9a64ca11aa9487a.webp",
+        "/data/images/39494d5160673c9813732c738a656c601f4ae7e1073c8d55122e553e64aa468d.webp",
+        "/data/images/008e53a58408ebaadec20a2b21b647b7dc67a0b05540b7acaebea68fc05b806c.webp",
+        "/data/images/b48104c286f5c55a9144ea727288de82070f810fc5b6bb4e3cc60a192de88a4f.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:36:02.202Z"
+    },
+    {
+      "id": "d2ce024b-497f-4678-8b86-763759b4aeac",
+      "name": "Saltie Girl",
+      "description": "Charming raw bar serving various seafood, including dishes made with tinned fish.",
+      "address": "279 Dartmouth St, Boston, MA 02116",
+      "mapLink": "https://www.google.com/maps/place/Saltie+Girl/@42.3471055,-71.0855221,15z/data=!3m1!5s0x89e37a0b8bfb887f:0x78244bc3f30f3add!4m6!3m5!1s0x89e37a0b8bf59d5f:0x19ad3773a84b9f68!8m2!3d42.3511566!4d-71.0775679!16s%2Fg%2F11bxj8dlzz?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "seafoor",
+        "lobster roll",
+        "outdoors",
+        "date"
+      ],
+      "photos": [
+        "/data/images/ce0d3e1fd1779fa8ff5136bdbcf6a0ca62324a42f8dba3ddef954562257c0d1d.webp",
+        "/data/images/487fc1dcc2963158a227027da625d774267876ae3b10c7b429fe45f789b8381e.webp",
+        "/data/images/31459deb4010651b0c7a7d71787a874c156e7fbf79df549e90f0c3388f9ec328.webp",
+        "/data/images/979cdc66b1b9637fe99097bba66b16a5fe690f7b25705c67a15dcee2c07845d8.webp",
+        "/data/images/c5a2a74f9c8b5dbb0df6e956878bd227a9d7fdedf8934afe49c91c2d08da1b98.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:38:09.954Z"
+    },
+    {
+      "id": "c38495c8-f8c4-4ef7-a673-204b76be32f0",
+      "name": "Bar Vlaha",
+      "description": "lamp chops",
+      "address": "1653 Beacon St, Brookline, MA 02445",
+      "mapLink": "https://www.google.com/maps/place/Bar+Vlaha/@42.3387292,-71.1391336,17z/data=!3m1!4b1!4m6!3m5!1s0x89e379947068ab6f:0xebdc0feccdf35d92!8m2!3d42.3387292!4d-71.1365533!16s%2Fg%2F11tf23rpqw?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "cocktails",
+        "greek",
+        "greekowned"
+      ],
+      "photos": [
+        "/data/images/6197866b50c335fee396e2de59dc98af50e04a6eb00e9c571f48fffd26ddde83.webp",
+        "/data/images/3eb7b3a073c93c9968046c50b074bc75a96537c6b7f31314ac001b934b1a19f3.webp",
+        "/data/images/55729a80fa1027e1ad56144badf5590ef917b32f848e1d4ff0d825535fa0a493.webp",
+        "/data/images/203ac1d640b13c256d896b52e00545de36f13d66aab99d4344e839f0ad8c3009.webp",
+        "/data/images/ddadb92cc7739fac02528dd7277240319673874eff6bf37d7c7dfbfc4a71a50d.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:41:47.731Z"
+    },
+    {
+      "id": "17aeb9fe-b21c-47f7-ba27-42ac8ab2d950",
+      "name": "The Publick House",
+      "description": "Lively beer hall with an expansive brew list, refined pub fare & a cozy, relaxed atmosphere.",
+      "address": "1648 Beacon St, Brookline, MA 02445",
+      "mapLink": "https://www.google.com/maps/place/The+Publick+House/@42.3388743,-71.1374107,17.64z/data=!4m6!3m5!1s0x89e379b1a93308d9:0x394ec63a3a4776f8!8m2!3d42.3393356!4d-71.1366264!16s%2Fg%2F1w96hrjt?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "outdoors",
+        "brew",
+        "bar",
+        "pub",
+        "small plates"
+      ],
+      "photos": [
+        "/data/images/7955b7311f6734e67481be1372db7a412267dda857c8852b36cb15f034ffed6c.webp",
+        "/data/images/ed1947e4bed665edf8d2c6e1c436a9c1defe1c49767d272b5806bfe6007ff1ff.webp",
+        "/data/images/1f36a0f43d2bbd5503d815bcdae35484f0e97c355f510018f4fa78644a3478ae.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T01:44:05.384Z"
+    },
+    {
+      "id": "324c3f01-c49b-495a-8b4f-25bd2a3190a9",
+      "name": "Chestnut Hill Reservation",
+      "description": "pic-nic",
+      "address": "Beacon Street, Brighton, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Chestnut+Hill+Reservation/@42.3339857,-71.160431,15z/data=!4m6!3m5!1s0x89e378594b347cf5:0x3ccc8a7b053a46e1!8m2!3d42.3358396!4d-71.1539741!16s%2Fm%2F0641nhn?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "outdoors",
+        "park"
+      ],
+      "photos": [
+        "/data/images/a6ce77573a6cffbaddb2bb4cadc6cddb2b8ea78866aff88c80685039da0681f0.webp",
+        "/data/images/de6539e6d8476fdb8e5366e59fb1976895bb55cb69af00768d4cc7fdd364652c.webp",
+        "/data/images/7d3b33fbfe7e041c4989b6d9d8c95a2d37e437f6f402890544467cec261ad650.webp",
+        "/data/images/ad4ea3a44476a5d980c9e3ee8bdf9065641464af77fe43f76c00bc669ebab057.webp",
+        "/data/images/fd16def73ff5b93a6c6a295b58d0c8ccd8367fb7593134306caf38005f4b3f36.webp",
+        "/data/images/fe59b7f8db6a9f607ae8379c0e4cd045490b9b13426fd1d5bc00b9e348be713b.webp",
+        "/data/images/04f83a49841816c4bb2cd23b8c72a9b3fb5ee6b7ac035a5b9343a72aab9832b8.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T02:26:17.815Z"
+    },
+    {
+      "id": "13b448e3-cf70-4caa-a3f7-6580a501ec55",
+      "name": "Cafe Landwer",
+      "description": "cute cafe",
+      "address": "383 Chestnut Hill Ave, Boston, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Cafe+Landwer/@42.3353597,-71.1501692,15z/data=!4m6!3m5!1s0x89e379f6252c939f:0x70bd2fcfacfc413!8m2!3d42.3352748!4d-71.1503661!16s%2Fg%2F11f733bp3z?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "instagramable",
+        "coffee",
+        "indoors"
+      ],
+      "photos": [
+        "/data/images/0e4276f874c03ffd27071e7c17dbe4284231b946f2ba81a2659fe800a4d58217.webp",
+        "/data/images/3bf2cc81d5221dc45a604ebbadb6931b5ec53eaad6d6e947f45d6794fb5b6e3f.webp",
+        "/data/images/d56ea1de351e84a53d656f18d27fd60ced3f19793b4c307f4ada48dedb356589.webp",
+        "/data/images/1e424c7326850cc951687240511c5ad4fffcbb7d02f71a3974e66cad2a5aeee9.webp",
+        "/data/images/3275c7650a3508079f40182be9c67d1ce114815e662ebb7a688132c6955ae6ee.webp",
+        "/data/images/56cbb196dd14c0b101e49c0a20b22b0bc03b0aa4670cff234daf1ebe15f8fc70.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T02:29:01.579Z"
+    },
+    {
+      "id": "d389c1d4-1298-44a6-b0ab-73afbc2c3f70",
+      "name": "Bazaar On Beacon Street",
+      "description": "Market & deli featuring European specialty products, including caviar, candies & imported alcohol.",
+      "address": "1432 Beacon St, Brookline, MA 02446",
+      "mapLink": "https://www.google.com/maps/place/Bazaar+On+Beacon+Street/@42.3408984,-71.1265305,15z/data=!4m6!3m5!1s0x89e379cfebc6f81b:0xad9c86c37e2fb468!8m2!3d42.3409891!4d-71.1265662!16s%2Fg%2F1tdz5v5_?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "turkish",
+        "deli",
+        "european"
+      ],
+      "photos": [
+        "/data/images/f9cf88b0d8c4d7e9c965e7761c199f718414c79bc990d808c6746f76caf5f509.webp",
+        "/data/images/67c94d744f7958d8d5ec00b05969b0e3db98c5b10346e0081724e66049f850e5.webp",
+        "/data/images/487a268308f6a3bf3739e102fb98ac23318db7aad591904c5e5c6736397e31cf.webp",
+        "/data/images/00221ddfb5baf79259152857f6c902c22dcf09734bbd3bd29f0465cebf4feb9f.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "shop",
+      "dateAdded": "2026-05-04T02:40:15.870Z"
+    },
+    {
+      "id": "a112bd37-2090-4592-9933-9f840ed46153",
+      "name": "Turco Market",
+      "description": "pasturma",
+      "address": "481 Cambridge St, Boston, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Turco+Market/@42.3463637,-71.144544,14.71z/data=!4m6!3m5!1s0x89e379159ba24213:0x4036f2ba2d3a1447!8m2!3d42.353892!4d-71.1370831!16s%2Fg%2F11srv9fhxs?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "turkish",
+        "deli"
+      ],
+      "photos": [
+        "/data/images/c90c7ad1efb8767c500287a928c89ed3173ff3ccbc597a2b2e313394fd19fc10.webp",
+        "/data/images/484196a13190eaa13b4b466ca570d52bb3ef8e38fb3bd5497ac8ad8d3a88baa4.webp",
+        "/data/images/77171bec3458484ca19e6efe413cc23c925eb070ac2e903ca46564d24b824dac.webp",
+        "/data/images/fbb2c6c7e665b3b100b0dc5b47938bc4377d719426ff65e053ca04d60dc1c6db.webp",
+        "/data/images/0510a542592903773f03b6f1d018393b12a1f7c58e91db71482eca5517f3e1bd.webp",
+        "/data/images/6cc67dc95019e21698ef4f0d853e3fdfa406295333d6d4a66ceee56b1d8a7ca1.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "shop",
+      "dateAdded": "2026-05-04T02:43:31.266Z"
+    },
+    {
+      "id": "3130d6fb-5302-4bb7-950e-d01d72321b64",
+      "name": "Matsunori Handroll Bar",
+      "description": "--",
+      "address": "900 Beacon St Unit A, Boston, MA 02215",
+      "mapLink": "https://www.google.com/maps/place/Matsunori+Handroll+Bar/@42.3456384,-71.1174339,15.94z/data=!4m6!3m5!1s0x89e3797cba2c94ed:0x57e1e0efc71d18f5!8m2!3d42.3467214!4d-71.1057656!16s%2Fg%2F11sz4bnqjg?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "japanese",
+        "date",
+        "indoors"
+      ],
+      "photos": [
+        "/data/images/1a0b7771bf98d22385623589b09c44b78020ad4194cf3572961c9599d7cb6a4f.webp",
+        "/data/images/8475dddba400b53e01c6e26d89883c9a7ad8b5bc4e02c8b06b14e39e17b773a4.webp",
+        "/data/images/3d43cbe1b182720d1b70d219a43cfc3be3074ee12a2246259b09ef6011cc5efa.webp",
+        "/data/images/9c807343c335354454fd97d12bb8d5b2fd662e40718918a53276960e2e20e896.webp",
+        "/data/images/d8c89233f77db0c2576038b94f9e44cd3a8f42f01ee4ac71db11747d8bb7327e.webp",
+        "/data/images/7404d98f280605abde01ba08c4c56314923c22634bf24322949d86e603af4dd5.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T02:48:50.636Z"
+    },
+    {
+      "id": "180f19f4-84e8-48c9-8baf-fd9a0000325a",
+      "name": "Pho Basil",
+      "description": "A bright, minimalistic eatery with a mix of Thai & Vietnamese dishes, spiced to order.",
+      "address": "177 Massachusetts Ave, Boston, MA 02115",
+      "mapLink": "https://www.google.com/maps/place/Pho+Basil/@42.3375882,-71.1057147,15z/data=!4m6!3m5!1s0x89e37a1af232632d:0x410a8f60dbb568e8!8m2!3d42.3457733!4d-71.0872827!16s%2Fg%2F1tfg8pgp?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "vietnamese",
+        "thai",
+        "indoors",
+        "noodles"
+      ],
+      "photos": [
+        "/data/images/5ac4a79f61ea5a0a31ef33fc506aac1d80472855c944dbbaa7c0ab0a7e5cb7e2.webp",
+        "/data/images/8eb0520776818b98438207a78f301473421f94f42155242c5d7074e62289d58b.webp",
+        "/data/images/ac6592de46ee5b927a5da99e71456a56745f23c50fbd429b45dfacca018a925f.webp",
+        "/data/images/11213294ae867e72a7e1c905ff95b46d141eec6acd1fab4440d9bd0097efd32a.webp",
+        "/data/images/f575f8c6635fcc04ebf2129256d856196013295492b83dc3463dba466f33bc97.webp",
+        "/data/images/33328ecfb60b021ed56af5d48bbd2666a125c4d10fa2915b7fdbcfe964fedd7a.webp",
+        "/data/images/e5af7612f8053a2e4c7c730128e716fba262f31a25d298b41129fc17e3ea95cf.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-04T02:51:41.995Z"
     }
   ],
   "mytravelblog_tag_index": [

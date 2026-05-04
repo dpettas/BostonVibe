@@ -52,6 +52,19 @@ function normalizeSearchText(value) {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
+function mapsSearchHref(query) {
+  const clean = String(query || '').replace(/\s+/g, ' ').trim();
+  return clean ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(clean)}` : '';
+}
+
+function placeSearchQuery(place) {
+  return [place.name, place.address].filter(Boolean).join(' ');
+}
+
+function placeAddressHref(place) {
+  return mapsSearchHref(placeSearchQuery(place) || place.address || place.name);
+}
+
 function resolveDistanceOrigin(input, places) {
   const raw = String(input || '').trim();
   if (!raw) return { error: 'Type a saved place name, paste a Maps link, or enter lat, lng.' };
@@ -80,10 +93,12 @@ function resolveDistanceOrigin(input, places) {
 }
 
 function mapsHref(place) {
+  const raw = String(place.mapLink || '').trim();
+  if (raw.startsWith('http')) return raw;
+
   const coord = coordsOf(place);
-  if (coord) return `https://www.google.com/maps/search/${encodeURIComponent(place.name)}/@${coord.lat},${coord.lng},17z`;
-  if (place.mapLink && place.mapLink.startsWith('http')) return place.mapLink;
-  if (place.address) return `https://www.google.com/maps/search/${encodeURIComponent(place.address)}`;
+  if (coord) return placeAddressHref(place) || mapsSearchHref(`${coord.lat},${coord.lng}`);
+  if (place.address || place.name) return placeAddressHref(place);
   return '';
 }
 
@@ -474,7 +489,7 @@ function DetailModal({ place, onClose, onEdit, onDelete, onUpdated }) {
         place.visited && (place.rating ? h('span', { className: 'detail-stars' }, `${'★'.repeat(place.rating)}${'☆'.repeat(5 - place.rating)}`) : h('span', { className: 'detail-visited-only' }, '✓ Visited')),
         place.googleRating ? h('span', { className: 'detail-google-rating' }, `G ★ ${place.googleRating}`) : null
       ),
-      place.address && h('p', { className: 'detail-address' }, h('a', { href: `https://www.google.com/maps/search/${encodeURIComponent(place.address)}`, target: '_blank', rel: 'noopener noreferrer' }, `📍 ${place.address}`)),
+      place.address && h('p', { className: 'detail-address' }, h('a', { href: placeAddressHref(place), target: '_blank', rel: 'noopener noreferrer' }, `📍 ${place.address}`)),
       h('p', { className: 'detail-desc' }, place.description),
       mapsHref(place) && h('div', { className: 'detail-map' }, h('a', { href: mapsHref(place), target: '_blank', rel: 'noopener noreferrer' }, 'Open in Maps ↗')),
       h('div', { className: 'detail-tags' }, place.tags.map(t => h('span', { key: t, className: 'tag-badge' }, t))),
