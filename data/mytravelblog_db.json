@@ -4927,6 +4927,198 @@
       "googleRating": 0,
       "category": "restaurant",
       "dateAdded": "2026-05-04T02:51:41.995Z"
+    },
+    {
+      "id": "4a045bbf-ae84-4658-b3a2-84a28128ea74",
+      "name": "Paul Revere Park Playground",
+      "description": "--",
+      "address": "Warren Ave, Boston, MA 02129",
+      "mapLink": "https://www.google.com/maps/place/Paul+Revere+Park+Playground/@42.3634722,-71.0868635,12.77z/data=!4m6!3m5!1s0x89e371d5af4ebcab:0x32e1f968ad07521!8m2!3d42.3697148!4d-71.062359!16s%2Fg%2F11gk8pbjfb?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "playground",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/81510a6515d73a609aac0ad5b053a719ad41f1b106d6b48f5183cbf6601a4cd7.webp",
+        "/data/images/91f428a5d32be17c802ffc221268f02cf23d3837587e65c7662147d65a2a8227.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-05-05T01:03:16.804Z"
+    },
+    {
+      "id": "8ebe9fad-697a-480e-9f47-3fc87bb80754",
+      "name": "Barcelona Wine Bar",
+      "description": "Extensive array of Spanish-centric small plates & wine in an intimate setting; open late-nights.",
+      "address": "1700 Beacon St, Brookline, MA 02446",
+      "mapLink": "https://www.google.com/maps/place/Barcelona+Wine+Bar/@42.3387292,-71.1365533,17z/data=!4m14!1m7!3m6!1s0x89e379947068ab6f:0xebdc0feccdf35d92!2sBar+Vlaha!8m2!3d42.3387292!4d-71.1365533!16s%2Fg%2F11tf23rpqw!3m5!1s0x89e379b18ae9a965:0xc672819b55e3d1fc!8m2!3d42.3388704!4d-71.1387828!16s%2Fg%2F1hhj5wkfw?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "spanish",
+        "wine",
+        "date",
+        "small-plates"
+      ],
+      "photos": [
+        "/data/images/34bea6d64d610ed5df0b175e2a435e8791fe27d55bea9df4693fca9384886f0e.webp",
+        "/data/images/1195df85d6ddeab2e673bb16f3d24a8cda6450291c1a9e44a6b4257d222762f2.webp",
+        "/data/images/75e5c26682eabba4d591a2f29c4b6954f1dbd33bf8b6258870a6a97009e4e9e1.webp",
+        "/data/images/bdad161fdc4808b7423879fcea77b1c2879b500efe3f6b88805b91c7c44a9485.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-05T01:07:47.139Z"
+    },
+    {
+      "id": "3f9f8996-c6f8-48c4-a3d3-da736ff2aa80",
+      "name": "Athan's Bakery & Cafe",
+      "description": "Popular bakery & European-style cafe specializing in elegant Mediterranean pastries & confectionery.",
+      "address": "1621 Beacon St, Brookline, MA 02446",
+      "mapLink": "https://www.google.com/maps/place/Athan's+Bakery+%26+Cafe/@42.3378817,-71.1366924,16.7z/data=!4m6!3m5!1s0x89e379b058b1cf8d:0xc596df96572ce28f!8m2!3d42.3391938!4d-71.134823!16s%2Fg%2F1vyk3hzx?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "bakery",
+        "coffee",
+        "pastry",
+        "greek",
+        "greek-owned"
+      ],
+      "photos": [
+        "/data/images/749ab3c8e52cc3dd42b57430e1718ce14acd6cb997db853803cd3e641b6c7560.webp",
+        "/data/images/b0ddd3aba1954d1cd43e39485b89357473366d65ad204d1762c8397637382199.webp",
+        "/data/images/9d09fe76d460101d3df391bc05f61e1f85010f9a412a574d4653f06b3c578949.webp",
+        "/data/images/87f0c1e8ebee6f3748eadb5c07f0708052457a5b960904c4f622e345c4d04c45.webp",
+        "/data/images/c142653168f3b3bb7fd59dc99713d7df682e9b7f660cbbac20619ca8646f63f9.webp",
+        "/data/images/196fde2bf8df3ce4625af9325ef629369011c7377f2ada5a5b1cd825b2bea2ed.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-05T01:11:01.963Z"
+    },
+    {
+      "id": "ca74f6c4-b2d2-474a-a95c-9c958695b3fe",
+      "name": "Tasca Restaurant",
+      "description": "Romantic & charming spot for tapas, traditional Spanish entrees, sangria & flamenco shows.",
+      "address": "1612 Commonwealth Ave, Brighton, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Tasca+Restaurant/@42.3433165,-71.143004,16z/data=!4m6!3m5!1s0x89e379b49b038a49:0xe2264ffabf4625ce!8m2!3d42.3433556!4d-71.1426849!16s%2Fg%2F1tf0rmn7?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "spanish",
+        "small-plates",
+        "date"
+      ],
+      "photos": [
+        "/data/images/a3b1c51be218b774b07199972a8011bcefbd4751e894fcd0180afefc5e507907.webp",
+        "/data/images/8ba288ed73fd88dd29f4275b2efca88835ddf4f9920e70c9a1131223ee19dc71.webp",
+        "/data/images/dd6fa1d6f66ed379c639bd7be8db5ec680ee6b4ab2deb5230f12764fc37f8a8a.webp",
+        "/data/images/9ba3d3764455391b0618603eb9cd0a282622976a9dc41a234e894ffbf45c9304.webp",
+        "/data/images/2ce8261abc6df3e8abe473c078a0bdfbc165f6fdcb19dbc42cdf7ea8a148cc2c.webp",
+        "/data/images/d3c9f3be4c7f774759264d067b40bd354ef1fcd2614387e5af336885d6796faf.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-05T01:14:11.728Z"
+    },
+    {
+      "id": "bf5e6c2e-8341-448e-a0e6-8bcad6a8def1",
+      "name": "Lakon Paris Patisserie",
+      "description": "--",
+      "address": "407 Washington St, Boston, MA 02135",
+      "mapLink": "https://www.google.com/maps/place/Lakon+Paris+Patisserie/@42.3493312,-71.1552017,15z/data=!4m6!3m5!1s0x89e379d9ee92d5a9:0xe908535ea1cd5cc2!8m2!3d42.3493312!4d-71.1552017!16s%2Fg%2F11y41j5zlf?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "bakery",
+        "french",
+        "pastry",
+        "coffee"
+      ],
+      "photos": [
+        "/data/images/007d5b131bdc3ba39916f46c95b56b32041eccd7a7bbb153e3357f89cfbc3427.webp",
+        "/data/images/ccc1a294809abff400e37df89fb4fd8fafe9d8259bda907ee6a8f77715658ba6.webp",
+        "/data/images/9b7125b4530e988abc3f8f6d401895d5ef4330c6949e5d8085fe3e3d5d1bdf9e.webp",
+        "/data/images/e51bc13be2b701c310e17a85e4947bab22c76501ea71526cd8e49af83f472225.webp",
+        "/data/images/4d063b2ea2493f2542019fbfd1b2fcc53e3ce1ec38b38bee64dfb27251dcc3c3.webp",
+        "/data/images/33cb7f43bf6d4e392160b08e8010aa48d01318d431952f149b3c4c1dd8809651.webp",
+        "/data/images/72aa6e94f4239ec339554eb4c3dd0e772e232eaaa1e39ca71a0204298f906243.webp",
+        "/data/images/42379056bc7ef8c0078bbe7bb05aba92ea13ce4ce5f5a4405381571df35d24a8.webp",
+        "/data/images/dab072e16da690dcde17df9027bcfad0a2c3a56b12570515cc1ce9298e256693.webp",
+        "/data/images/bb82a8c143f3da9d1914e5213916c89a843a37fed18a3e1938de30a515561db8.webp",
+        "/data/images/322ca1fc8758895118e7a5a7962681433521aedf1d6911efb149b2900691e794.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-05T01:22:42.328Z"
+    },
+    {
+      "id": "aef764e4-fd72-4dbc-af36-5f1b874142af",
+      "name": "The Q",
+      "description": "Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy eatery & lounge.",
+      "address": "660 Washington St, Boston, MA 02111",
+      "mapLink": "https://www.google.com/maps/place/The+Q/@42.3515829,-71.0670788,16.41z/data=!4m6!3m5!1s0x89e37a77ecdbd817:0x7ea9c255fc59265e!8m2!3d42.3517071!4d-71.0626088!16s%2Fg%2F1thctbsg?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "mongolian"
+      ],
+      "photos": [
+        "/data/images/de0a377aba0848222065633127c9fffad1efee76556ce6d5c38be683f18549da.webp",
+        "/data/images/575d3b88a870fa7f23e9743a15f8d1fc3c316a4353da5882ba1e8a084351460b.webp",
+        "/data/images/c1cb030674d4909ed60fefef13ae54e088c13e81db4dc644140ae16b73c87a5e.webp",
+        "/data/images/d9f3ed827eaea240e9ae623419b602c86bff8c434c1885c685613c46d8530032.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "restaurant",
+      "dateAdded": "2026-05-05T01:44:44.745Z"
+    },
+    {
+      "id": "63882ded-30bb-4605-9fb8-8fcd90908a71",
+      "name": "Banh Mi Huong Que",
+      "description": "-",
+      "address": "696 Washington St, Boston, MA 02111",
+      "mapLink": "https://www.google.com/maps/place/Banh+Mi+Huong+Que/@42.3517142,-71.0627796,16z/data=!4m6!3m5!1s0x89e37ba65c0d2c57:0xb220e7b55f82e360!8m2!3d42.3511885!4d-71.062769!16s%2Fg%2F11qt242vcl?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "vietnamese"
+      ],
+      "photos": [
+        "/data/images/37909cfcce2a2843ef0fddff13ec67be906901a8c99781e216d76dfae18bb7f9.webp",
+        "/data/images/989aa425dde75dbde9d836e38b14050b2dbf04e0d95b070c1ad3e26c0aa0b92b.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-05-05T02:01:02.095Z"
+    },
+    {
+      "id": "628799eb-b867-400f-8e25-2f7136bfb0a3",
+      "name": "Franklin Park Zoo",
+      "description": "This park, part of the Emerald Necklace of green spaces, includes a zoo, golf course & arboretum.",
+      "address": "1 Franklin Park Rd, Boston, MA 02121",
+      "mapLink": "https://www.google.com/maps/place/Franklin+Park+Zoo/@42.2933292,-71.1076522,12.98z/data=!4m6!3m5!1s0x89e37bdc0d1fed99:0x1da69cb20a2dec91!8m2!3d42.3051206!4d-71.0897695!16zL20vMDUxd3I3?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "tags": [
+        "zoo",
+        "kids",
+        "family"
+      ],
+      "photos": [
+        "/data/images/948356d16fc83bc6b29f244e255d6fe27b8b6992f8e55b42d7e7eeb5dd716787.webp",
+        "/data/images/67373eaa7375af001a60001eae0e78e1f59a1e19e328a503c95259a3515e413f.webp",
+        "/data/images/a60ffd94555d8b7548db890b3cc2b284efa8f4fa841a129542d2accb20a7c395.webp",
+        "/data/images/dd001befc3eaa69e73c8b8ea005966aaaa39cce01c040727bd58df06d096f0b6.webp",
+        "/data/images/a57fa6108ef2a8939659088e6c407dd3c6ba6e5d2d46772ca0ea4adc2153130d.webp"
+      ],
+      "visited": false,
+      "rating": 0,
+      "googleRating": 0,
+      "category": "experience",
+      "dateAdded": "2026-05-05T02:02:28.408Z"
     }
   ],
   "mytravelblog_tag_index": [
